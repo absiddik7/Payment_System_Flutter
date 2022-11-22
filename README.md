@@ -1,16 +1,17 @@
-# payment_system
+# Stripe Payment
+# Tools
+1. Flutter
+2. Stripe API
 
-A new Flutter project.
+# Screenshot
+<img src="https://user-images.githubusercontent.com/49263226/203305391-a532776f-a25c-4c18-88bd-250d48b07c4d.jpeg" alt="Your image title" width="250"/>
+<img src="https://user-images.githubusercontent.com/49263226/203305409-6da112e5-92cd-459b-935c-120afaffaebb.jpeg" alt="Your image title" width="250"/>
+<img src="https://user-images.githubusercontent.com/49263226/203305416-b72b3590-e5c5-4cda-92a1-770ca74377be.jpeg" alt="Your image title" width="250"/>
+<img src="https://user-images.githubusercontent.com/49263226/203305441-7f248bb5-b8a3-42da-900d-f1a1cbf91bc7.jpeg" alt="Your image title" width="250"/>
+<img src="https://user-images.githubusercontent.com/49263226/203305458-3855284a-d981-4959-a7a8-51a6e593c7f8.jpeg" alt="Your image title" width="250"/>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
