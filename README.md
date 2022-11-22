@@ -1,7 +1,7 @@
 # Stripe Payment
 # Tools
 1. Flutter
-2. Stripe API
+2. Stripe API (https://stripe.com/docs/api)
 
 # Screenshot
 <img src="https://user-images.githubusercontent.com/49263226/203305391-a532776f-a25c-4c18-88bd-250d48b07c4d.jpeg" alt="Your image title" width="250"/>
